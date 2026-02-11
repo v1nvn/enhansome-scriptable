@@ -143,7 +143,7 @@
 
   <img src="https://raw.githubusercontent.com/ThisIsBenny/iOS-Widgets/main/VodafoneDE/previewLight.jpeg" width="200"/>
 
-* [scriptable\_premiumsim](https://github.com/BergenSoft/scriptable_premiumsim) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-03 - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
+* [scriptable\_premiumsim](https://github.com/BergenSoft/scriptable_premiumsim) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-03 - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
 
   <img src="https://raw.githubusercontent.com/BergenSoft/scriptable_premiumsim/main/Preview.jpg" width="200"/>
 
