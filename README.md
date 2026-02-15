@@ -47,7 +47,7 @@
 
   <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/main/screenshots/sc_1.png" width="400"/>
 
-* [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) ⭐ 64 | 🐛 12 | 🌐 JavaScript | 📅 2025-03-14 - Information about your Tesla, like charging status and doors locked/unlocked.
+* [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) ⭐ 63 | 🐛 12 | 🌐 JavaScript | 📅 2025-03-14 - Information about your Tesla, like charging status and doors locked/unlocked.
 
   <img src="https://raw.githubusercontent.com/DrieStone/TeslaData-Widget/main/documentation/screen_001.png" width="400"/>  
 
